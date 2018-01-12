@@ -19,7 +19,6 @@
   "homepage": "https://github.com/I3uckwheat/MongoDB-Migration#readme",
   "dependencies": {
     "async": "^2.6.0",
-    "mongodb": "^3.0.1",
-    "morgan": "1.9.0"
+    "mongodb": "^3.0.1"
   }
 }
